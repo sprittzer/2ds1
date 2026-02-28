@@ -1,0 +1,16 @@
+2025-09-22 16:16:12 Research object created with file: ../data.csv
+2025-09-22 16:16:12 Reading file ../data.csv with header=True
+2025-09-22 16:16:12 Validating data structure
+2025-09-22 16:16:12 Formatting data to integers
+2025-09-22 16:16:12 Calculations object created
+2025-09-22 16:16:12 Analytics object created
+2025-09-22 16:16:12 Calculations object created
+2025-09-22 16:16:12 Calculating counts of heads and tails
+2025-09-22 16:16:12 Calculating fractions of heads and tails
+2025-09-22 16:16:12 Generating 3 random predictions
+2025-09-22 16:16:12 Saving data to file report.txt
+2025-09-22 16:16:12 File saved successfully
+2025-09-22 16:16:12 Sending Telegram message: The report has been successfully created.
+2025-09-22 16:16:12 Starting new HTTPS connection (1): api.telegram.org:443
+2025-09-22 16:16:12 https://api.telegram.org:443 "POST /bot8369592365:AAEMQw_6o-1wonvvNf_fBILU0v0UVIDfWlI/sendMessage HTTP/1.1" 200 301
+2025-09-22 16:16:12 Telegram message sent successfully
